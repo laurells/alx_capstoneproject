@@ -1,0 +1,23 @@
+{
+  "name": "alx_capstone_project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/laurells/alx_capstone_project",
+  "author": "Laurels Echichinwo <laurelsechichinwo@punch.agency>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.7.0",
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^8.2.2",
+    "dotenv": "^16.0.1",
+    "graphql": "^16.5.0",
+    "graphql-tag": "^2.12.6",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.4",
+    "nodemon": "^3.0.1",
+    "validator": "^13.7.0"
+  }
+}
